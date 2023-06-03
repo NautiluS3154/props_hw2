@@ -1,0 +1,16 @@
+
+.block_title{
+    padding: 20px;
+}
+img{
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 10px;
+}
+.shoes{
+    display: flex;
+text-align: center;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
